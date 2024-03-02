@@ -1,0 +1,9 @@
+com\facebook\qa\pages\FLoginPage.class
+com\facebook\qa\pages\FriendsPage.class
+com\facebook\qa\base\TestBase.class
+com\facebook\qa\pages\MemoriesPage.class
+com\facebook\qa\ExtentReportListener\ExtentReporterNG.class
+com\facebook\qa\pages\VideoPage.class
+com\facebook\qa\util\WebEventListener.class
+com\facebook\qa\util\TestUtil.class
+com\facebook\qa\pages\HomePage.class
